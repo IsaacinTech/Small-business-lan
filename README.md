@@ -43,10 +43,10 @@ To strengthen networking fundamentals and develop practical skills relevant to e
 ## Screenshots
 
 ### Network Topology
-![Network Topology](screenshots/Network%20topology%20small%20business%20LAN.png)
+![Network Topology](screenshots/network%20topology%20small%20business%20lan.png)
 
 ### Connectivity Test 1
-![Connectivity Test 1](screenshots/Screenshot%201.png)
+![Connectivity Test 1](screenshots/screenshot%201.png)
 
 ### Connectivity Test 2
-![Connectivity Test 2](screenshots/Screenshot%202.png)
+![Connectivity Test 2](screenshots/screenshot%202.png)

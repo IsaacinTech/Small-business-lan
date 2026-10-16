@@ -40,3 +40,13 @@ Cisco Packet Tracer
 GitHub
 Project Purpose
 To strengthen networking fundamentals and develop practical skills relevant to entry-level IT support, help desk, and networking roles while preparing for the CCNA.
+## Screenshots
+
+### Network Topology
+![Network Topology](screenshots/Network%20topology%20small%20business%20LAN.png)
+
+### Connectivity Test 1
+![Connectivity Test 1](screenshots/Screenshot%201.png)
+
+### Connectivity Test 2
+![Connectivity Test 2](screenshots/Screenshot%202.png)
